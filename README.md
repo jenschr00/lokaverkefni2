@@ -1,1 +1,2 @@
 # lokaverkefni2
+#hallo
